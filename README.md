@@ -453,7 +453,6 @@ policy, a documentary slice, and a workbench a stranger can open.
 What we are not claiming: Astra-scale world gen, photogrammetry, or
 a week of Unreal street-by-street mesh.
 
-
 8.  WORKER START
 
   cmake --preset native
