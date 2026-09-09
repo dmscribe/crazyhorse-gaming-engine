@@ -1,7 +1,21 @@
+## Historical & Legal Notice
+
+### Educational & Technical Disclaimer
+This repository is an open-source, non-commercial educational resource and software capability showcase.  The designation "Crazy Horse Gaming Engine" is used strictly in a historical, documentary, and commemorative capacity to anchor the technical demonstration of a specific 19th-century historical event (the Battle of the Greasy Grass / Little Bighorn, June 1876). 
+
+This project is entirely independent.  It is not affiliated with, endorsed by, licensed by, or associated with any estate, foundation, corporate entity, or tribal authority representing the legacy or descendants of Tašúŋke Witkó (Crazy Horse).  This repository does not sell commercial merchandise, consumer video games, or entertainment products utilising this historic name. 
+
+### Cultural Respect & Non-Commodification Policy
+The author holds deep respect for the cultural, historical, and spiritual legacy of the Lakota people and all Indigenous nations.  To prevent the commodification or trivialisation of historical figures and events, this project strictly implements the following core structural constraints within its capability slice:
+* **No Likeness Exploitation:** The historical figure is never commercialised, depicted as editor chrome, or rendered via an entertainment-style textured hero mesh. Representation on the digital field is limited strictly to an unlit, abstract "Shadow" shader framework.
+* **Rigid Demographic Enforcement:** The repository features built-in asset validation that explicitly blocks configurations involving child tags, child proportions, or underage audio elements, maintaining a strict tactical documentary environment.  This doesn't mean we don't want young people to know about Tašúŋke Witkó. 
+* **Open Accessibility (MIT):** The underlying software architecture is distributed entirely for free under the MIT License, ensuring the code remains an open, accessible public utility for all independent and Indigenous developers worldwide to freely fork, study, and modify.
+
 CRAZY HORSE GAMING ENGINE
 Xaida Insignia Productions
 SemVer 0.1.0  --  7 September 2026
 PROJECT MAP  (every component)
+
 "This is not a toy."
 
 Credit
